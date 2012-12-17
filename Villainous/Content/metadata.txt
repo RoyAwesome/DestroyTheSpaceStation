@@ -1,0 +1,386 @@
+﻿8 3 Villainous.PlayerEntity null
+6 3 "The evil that men do lives after them; the good is oft interred with their bones."
+6 5 That was the trigger phrase.  You are a Imperial sleeper agent.  
+8 5 Your mission: Destroy this station.  
+8 6 Your mission: Destroy this station.
+12 5 These republic fools still think you are part of them.  Use that to your advantage
+12 6 These republic fools still think you are part of them.  Use that to your advantage
+15 5 You don't seem to have any equipment.  Search the Dormitory for supplies
+15 6 You don't seem to have any equipment.  Search the Dormitory for supplies
+24 9 The Dormitory
+24 10 The Dormitory
+18 5 The clearences are PURPLE, YELLOW, BLUE, GREEN, and RED.  You are currently YELLOW
+18 6 The clearences are PURPLE, YELLOW, BLUE, GREEN, and RED.  You are currently YELLOW
+19 5 You can only open doors of equal or lower clearance level than you.  Robots of higher level will shoot you
+19 6 You can only open doors of equal or lower clearance level than you.  Robots of higher level will shoot you
+22 7 You may need higher clearance to finish your mission.  Kill officers and steal their ID cards
+23 7 You may need higher clearance to finish your mission.  Kill officers and steal their ID cards
+20 9 YELLOW {Villainous.Raygun,Villainous.CreditHolder(10)}
+20 8 decal_bed
+4 2 decal_bed
+8 2 decal_bed
+12 2 decal_bed
+16 2 decal_bed
+4 8 decal_bed
+8 8 decal_bed
+12 8 decal_bed
+16 8 decal_bed
+4 11 decal_bed
+8 11 decal_bed
+12 11 decal_bed
+16 11 decal_bed
+20 11 decal_bed
+4 17 decal_bed
+8 17 decal_bed
+12 17 decal_bed
+16 17 decal_bed
+19 2 YELLOW -COMSTAT LIBERTY-  This station coordinates the Free Republic's defense of this sector.
+4 18 PURPLE {Villainous.CommunistManifesto}
+43 9 Medical
+43 10 Medical
+46 13 decal_bed 1
+48 13 decal_bed 1
+43 2 decal_computerbank 0 true
+44 2 decal_computerbank 0 true
+45 2 decal_computerbank 0 true
+46 2 decal_computerbank 0 true
+47 2 decal_computerbank 0 true
+48 2 decal_computerbank 0 true
+49 2 decal_computerbank 0 true
+50 2 decal_computerbank 0 true
+51 2 decal_computerbank 0 true
+45 6 decal_bed 2
+49 6 decal_bed
+49 8 decal_bed
+49 10 decal_bed
+47 13 GREEN {Villainous.MedicalKit}
+49 9 GREEN {Villainous.MedicalKit}
+49 7 GREEN {Villainous.MedicalKit,Villainous.SecurityClearanceCard(GREEN)}
+46 3 Villainous.Worker GREEN
+49 3 Villainous.Worker GREEN
+34 27 Hall 102-B
+35 27 Hall 102-B
+32 35 decal_desk 0 true
+33 35 decal_desk 0 true
+34 35 decal_desk 0 true
+35 35 decal_desk 0 true
+36 35 decal_desk 0 true
+37 35 decal_desk 0 true
+31 35 decal_cornerdesk 0 true
+31 36 decal_desk 3 true
+31 37 decal_desk 3 true
+31 38 decal_desk 3 true
+31 39 decal_cornerdesk 3 true
+32 39 decal_desk 2 true
+33 39 decal_desk 2 true
+36 39 decal_desk 2 true
+37 39 decal_desk 2 true
+38 35 decal_cornerdesk 0 true 1
+38 36 decal_desk 1 true
+38 37 decal_desk 1 true
+38 38 decal_desk 1 true
+38 39 decal_cornerdesk 2 true
+34 47 PURPLE
+35 47 BLUE
+34 46 To: Command, Communications, and Captains Quarters
+35 46 To: Command, Communications, and Captains Quarters
+34 36 Villainous.SecurityOfficer BLUE
+35 36 Villainous.SecurityOfficer BLUE
+54 37 floorscanner
+54 38 floorscanner
+55 39 decal_window 0 true
+56 39 decal_window 0 true
+57 39 decal_window 0 true
+58 39 decal_window 0 true
+59 39 decal_window 0 true
+60 39 decal_window 0 true
+62 37 floorscanner
+62 38 floorscanner
+61 39 BLUE
+57 27 decal_railing 0 true
+58 27 decal_railing 0 true
+61 27 decal_railing 0 true
+62 27 decal_railing 0 true
+63 27 decal_railing 0 true
+64 27 decal_railing 0 true
+65 27 decal_railing 0 true
+66 27 decal_railing 0 true
+67 27 decal_railing 0 true
+68 27 decal_railing 0 true
+69 27 decal_railing 0 true
+70 27 decal_railing 0 true
+71 27 decal_railing 0 true
+72 27 decal_railing 0 true
+73 27 decal_railing 0 true
+74 27 decal_railing 0 true
+75 27 decal_railing 0 true
+76 27 decal_railing 0 true
+77 27 decal_railing 0 true
+78 27 decal_railing 0 true
+79 27 decal_railing 0 true
+80 27 decal_railing 0 true
+81 27 decal_railing 0 true
+82 27 decal_railing 0 true
+83 27 decal_railing 0 true
+84 27 decal_railing 0 true
+85 27 decal_railing 0 true
+86 27 decal_railing 0 true
+87 27 decal_railing 0 true
+88 27 decal_railing 0 true
+89 27 decal_railing 0 true
+90 27 decal_railing 0 true
+91 27 decal_railing 0 true
+92 27 decal_railing 0 true
+93 27 decal_railing 0 true
+94 27 decal_railing 0 true
+97 27 decal_railing 0 true
+98 27 decal_railing 0 true
+59 27 decal_stairs
+60 27 decal_stairs
+59 26 decal_stairs
+60 26 decal_stairs
+59 25 decal_stairs
+60 25 decal_stairs
+95 27 decal_stairs
+96 27 decal_stairs
+95 26 decal_stairs
+96 26 decal_stairs
+95 25 decal_stairs
+96 25 decal_stairs
+74 30 Hangar
+75 30 Hangar
+74 43 Storage
+75 43 Storage
+92 37 Weapons Battery
+92 38 Weapons Battery
+93 83 Weapons Battery
+93 84 Weapons Battery
+68 83 Bathrooms
+68 84 Bathrooms
+74 94 Engineering
+75 94 Engineering
+24 55 Communications
+24 56 Communications
+40 55 Captains Chambers
+40 56 Captains Chambers
+34 64 The Bridge
+35 64 The Bridge
+19 17 YELLOW COMSTAT is in orbit around Gavonis IV, a Class 5 Gas Giant.  Boosters are fired to keep it in orbit
+12 12 PURPLE [PRIV COM] Mommy, will you protect us from the Imperial slavers?
+4 12 PURPLE [PRIV COM] Eric just got a shipment from his 'friends' on Halios. 
+12 18 PURPLE [DEF LOG] The new defense drones are armed and extremely capable
+12 9 PURPLE [HNG LOG] The supports around the airlock seems weak.  Requesting a repair crew to look at it.
+20 12 PURPLE [SEC LOG] The Secutronix Robots work perfectly.  These should keep out Imperial boarders.
+16 12 PURPLE {Villainous.Knife,Villainous.CreditHolder(10),Villainous.HackingKit}
+18 8 This is a chest.  Inside is an Item.  Items are one time use only
+19 9 Some items are restricted.  They will be RED in your inventory.  They will be removed if you are searched
+22 8 But don't be spotted when doing it or the station will go on ALERT and robots will be sent after you
+23 8 But don't be spotted when doing it or the station will go on ALERT and robots will be sent after you
+23 3 This is a Terminal.  Terminals contain clues to help you with your mission.
+3 18 This chest is locked with RED clearance.  I wonder whats inside?
+15 12 Some chests contain CREDITS.  Use them to purchase items from the trader in the hangar
+47 2 YELLOW [MED LOG] The Medical Kits are incredibly useful for curing broken limbs
+20 38 The Brig
+20 39 The Brig
+17 36 decal_window 0 true
+16 36 decal_window 0 true
+15 36 decal_window 0 true
+14 36 decal_window 0 true
+13 36 decal_window 0 true
+12 36 decal_window 0 true
+11 36 decal_window 0 true
+10 36 decal_window 0 true
+18 36 GREEN
+65 6 decal_drone_1 0 true
+66 6 decal_drone_2 0 true
+67 6 decal_drone_3 0 true
+65 7 decal_drone_4 0 true
+66 7 decal_drone_5 0 true
+67 7 decal_drone_6 0 true
+65 8 decal_drone_7 0 true
+66 8 decal_drone_8 0 true
+67 8 decal_drone_9 0 true
+65 12 decal_drone_1 0 true
+66 12 decal_drone_2 0 true
+67 12 decal_drone_3 0 true
+65 13 decal_drone_4 0 true
+66 13 decal_drone_5 0 true
+67 13 decal_drone_6 0 true
+65 14 decal_drone_7 0 true
+66 14 decal_drone_8 0 true
+67 14 decal_drone_9 0 true
+65 18 decal_drone_1 0 true
+66 18 decal_drone_2 0 true
+67 18 decal_drone_3 0 true
+65 19 decal_drone_4 0 true
+66 19 decal_drone_5 0 true
+67 19 decal_drone_6 0 true
+65 20 decal_drone_7 0 true
+66 20 decal_drone_8 0 true
+67 20 decal_drone_9 0 true
+72 6 decal_drone_1 0 true
+73 6 decal_drone_2 0 true
+74 6 decal_drone_3 0 true
+72 7 decal_drone_4 0 true
+73 7 decal_drone_5 0 true
+74 7 decal_drone_6 0 true
+72 8 decal_drone_7 0 true
+73 8 decal_drone_8 0 true
+74 8 decal_drone_9 0 true
+72 12 decal_drone_1 0 true
+73 12 decal_drone_2 0 true
+74 12 decal_drone_3 0 true
+72 13 decal_drone_4 0 true
+73 13 decal_drone_5 0 true
+74 13 decal_drone_6 0 true
+72 14 decal_drone_7 0 true
+73 14 decal_drone_8 0 true
+74 14 decal_drone_9 0 true
+72 18 decal_drone_1 0 true
+73 18 decal_drone_2 0 true
+74 18 decal_drone_3 0 true
+72 19 decal_drone_4 0 true
+73 19 decal_drone_5 0 true
+74 19 decal_drone_6 0 true
+72 20 decal_drone_7 0 true
+73 20 decal_drone_8 0 true
+74 20 decal_drone_9 0 true
+22 30 decal_computerbank 0 true
+23 30 decal_computerbank 0 true
+24 30 decal_computerbank 0 true
+25 30 decal_computerbank 0 true
+26 30 decal_computerbank 0 true
+27 30 decal_computerbank 0 true
+28 30 decal_computerbank 0 true
+29 30 decal_computerbank 0 true
+30 30 decal_computerbank 0 true
+39 30 decal_computerbank 0 true
+40 30 decal_computerbank 0 true
+41 30 decal_computerbank 0 true
+42 30 decal_computerbank 0 true
+43 30 decal_computerbank 0 true
+44 30 decal_computerbank 0 true
+45 30 decal_computerbank 0 true
+46 30 decal_computerbank 0 true
+47 30 decal_computerbank 0 true
+28 68 Villainous.Comrade null
+55 40 BLUE {58,37;58,38}
+55 37 This is an item scanner.  It will remove restricted items from your inventory
+55 38 This is an item scanner.  It will remove restricted items from your inventory
+34 62 1
+35 62 1
+22 41 decal_computerbank 0 true
+22 42 decal_computerbank 0 true
+22 44 decal_computerbank 0 true
+22 43 BLUE [SEC LOG] Hackers disabled the item scanners yesterday. Hacker kits have been restricted pending an investigation
+32 38 YELLOW [MAIL] Re: I need your help! - I am writing this with great sadness.  My fortune on New Nigeria V was taken...
+37 38 BLUE [HNG LOG] 12 packs of C4 stored in Cargo Room 11-C.  I don't know why Command ordered these
+47 41 decal_computerbank 0 true
+47 42 decal_computerbank 0 true
+47 43 decal_computerbank 0 true
+47 44 decal_computerbank 0 true
+58 5 decal_crate 0 true
+57 5 decal_crate 0 true
+57 6 decal_crate 0 true
+57 21 decal_2x1_1 0 true
+58 21 decal_2x1_2 0 true
+57 20 decal_crate 0 true
+57 9 decal_crate 0 true
+57 10 decal_2x2_1 0 true
+58 10 decal_2x2_2 0 true
+57 11 decal_2x2_3 0 true
+58 11 decal_2x2_4 0 true
+57 12 decal_2x1_1 1 true
+57 13 decal_2x1_2 1 true
+58 12 decal_crate 0 true
+58 4 YELLOW {Villainous.MedicalKit,Villainous.SecurityClearanceCard(BLUE),Villainous.CreditHolder(20),Villainous.CreditHolder(10),Villainous.CreditHolder(15),Villainous.Knife}
+57 7 YELLOW {Villainous.MedicalKit,Villainous.Raygun,Villainous.CreditHolder(20),Villainous.CreditHolder(10),Villainous.CreditHolder(15),Villainous.Knife}
+58 20 BLUE {Villainous.MedicalKit,Villainous.Raygun,Villainous.CreditHolder(25),Villainous.CreditHolder(20),Villainous.CreditHolder(15),Villainous.Knife}
+86 40 decal_2x2_1 0 true
+87 40 decal_2x2_2 0 true
+86 41 decal_2x2_3 0 true
+87 41 decal_2x2_4 0 true
+84 40 decal_2x1_1 0 true
+85 40 decal_2x1_2 0 true
+87 42 decal_2x1_1 1 true
+87 43 decal_2x1_2 1 true
+77 43 decal_crate 0 true
+77 45 decal_crate 0 true
+77 44 decal_2x1_1 0 true
+78 44 decal_2x1_2 0 true
+80 45 decal_2x2_1 0 true
+81 45 decal_2x2_2 0 true
+80 46 decal_2x2_3 0 true
+81 46 decal_2x2_4 0 true
+82 46 decal_crate 0 true
+86 48 decal_2x2_1 0 true
+87 48 decal_2x2_2 0 true
+86 49 decal_2x2_3 0 true
+87 49 decal_2x2_4 0 true
+87 47 decal_crate 0 true
+87 50 decal_crate 0 true
+83 51 decal_2x2_1 0 true
+84 51 decal_2x2_2 0 true
+83 52 decal_2x2_3 0 true
+84 52 decal_2x2_4 0 true
+77 53 decal_2x1_1 0 true
+78 53 decal_2x1_2 0 true
+79 53 decal_crate 0 true
+83 40 YELLOW {Villainous.MedicalKit,Villainous.HackingKit,Villainous.CreditHolder(20),Villainous.CreditHolder(10),Villainous.CreditHolder(15),Villainous.Knife}
+85 41 GREEN {Villainous.MedicalKit,Villainous.HackingKit,Villainous.CreditHolder(20),Villainous.CreditHolder(10),Villainous.CreditHolder(15),Villainous.Raygun}
+78 43 BLUE {Villainous.MedicalKit,Villainous.HackingKit,Villainous.CreditHolder(20),Villainous.CreditHolder(10),Villainous.CreditHolder(15),Villainous.Knife}
+87 51 YELLOW {Villainous.MedicalKit,Villainous.HackingKit,Villainous.CreditHolder(20),Villainous.CreditHolder(10),Villainous.CreditHolder(15),Villainous.Raygun}
+86 53 YELLOW {Villainous.MedicalKit,Villainous.HackingKit,Villainous.CreditHolder(20),Villainous.CreditHolder(10),Villainous.CreditHolder(15),Villainous.Raygun}
+80 53 YELLOW {Villainous.MedicalKit,Villainous.HackingKit,Villainous.CreditHolder(20),Villainous.CreditHolder(10),Villainous.CreditHolder(15),Villainous.Raygun}
+77 52 GREEN {Villainous.MedicalKit,Villainous.SecurityClearanceCard(BLUE),Villainous.CreditHolder(50),Villainous.CreditHolder(40),Villainous.CreditHolder(25),Villainous.Raygun}
+82 45 BLUE {Villainous.MedicalKit,Villainous.SecurityClearanceCard(BLUE),Villainous.CreditHolder(20),Villainous.CreditHolder(10),Villainous.CreditHolder(15),Villainous.Raygun}
+87 44 YELLOW {Villainous.MedicalKit,Villainous.HackingKit,Villainous.CreditHolder(20),Villainous.CreditHolder(10),Villainous.CreditHolder(15),Villainous.Knife}
+76 48 YELLOW
+84 6 decal_cargoship_1 0 true
+85 6 decal_cargoship_2 0 true
+86 6 decal_cargoship_3 0 true
+87 6 decal_cargoship_4 0 true
+88 6 decal_cargoship_5 0 true
+84 7 decal_cargoship_6 0 true
+85 7 decal_cargoship_7 0 true
+86 7 decal_cargoship_8 0 true
+87 7 decal_cargoship_9 0 true
+84 8 decal_cargoship_10 0 true
+85 8 decal_cargoship_11 0 true
+86 8 decal_cargoship_12 0 true
+84 9 decal_cargoship_13 0 true
+85 9 decal_cargoship_14 0 true
+86 9 decal_cargoship_15 0 true
+84 10 decal_cargoship_16 0 true
+85 10 decal_cargoship_17 0 true
+86 10 decal_cargoship_18 0 true
+85 11 decal_2x2_1 0 true
+86 11 decal_2x2_2 0 true
+85 12 decal_2x2_3 0 true
+86 12 decal_2x2_4 0 true
+87 12 decal_crate 0 true
+89 8 decal_2x1_1 1 true
+89 9 decal_2x1_2 1 true
+88 7 decal_crate 0 true
+97 13 decal_railing 3 true
+97 14 decal_railing 3 true
+97 15 decal_railing 3 true
+97 16 decal_railing 3 true
+98 17 decal_stairs
+98 16 decal_catwalk
+98 15 decal_catwalk
+98 14 decal_catwalk
+98 13 decal_catwalk
+97 12 decal_desk 2 true
+96 12 decal_cornerdesk 3 true
+96 7 decal_desk 3 true
+96 8 decal_desk 3 true
+96 9 decal_desk 3 true
+96 10 decal_desk 3 true
+96 11 decal_desk 3 true
+96 6 decal_cornerdesk 0 true
+97 6 decal_desk 0 true
+98 6 decal_desk 0 true
+97 7 GREEN {98,7}
+98 7 DRONES
+98 11 Drone Programming Station

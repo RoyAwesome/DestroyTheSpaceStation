@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Villainous", "Villainous\Villainous.csproj", "{7959A1B3-410A-4028-84B6-91D09EE6E79F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Android|Any CPU = Android|Any CPU
+		Android|x86 = Android|x86
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		iOS|Any CPU = iOS|Any CPU
+		iOS|x86 = iOS|x86
+		Linux|Any CPU = Linux|Any CPU
+		Linux|x86 = Linux|x86
+		Mac|Any CPU = Mac|Any CPU
+		Mac|x86 = Mac|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+		Windows|Any CPU = Windows|Any CPU
+		Windows|x86 = Windows|x86
+		Windows8|Any CPU = Windows8|Any CPU
+		Windows8|x86 = Windows8|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7959A1B3-410A-4028-84B6-91D09EE6E79F}.Android|Any CPU.ActiveCfg = Release|x86
+		{7959A1B3-410A-4028-84B6-91D09EE6E79F}.Android|x86.ActiveCfg = Release|x86
+		{7959A1B3-410A-4028-84B6-91D09EE6E79F}.Android|x86.Build.0 = Release|x86
+		{7959A1B3-410A-4028-84B6-91D09EE6E79F}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{7959A1B3-410A-4028-84B6-91D09EE6E79F}.Debug|x86.ActiveCfg = Debug|x86
+		{7959A1B3-410A-4028-84B6-91D09EE6E79F}.Debug|x86.Build.0 = Debug|x86
+		{7959A1B3-410A-4028-84B6-91D09EE6E79F}.iOS|Any CPU.ActiveCfg = Release|x86
+		{7959A1B3-410A-4028-84B6-91D09EE6E79F}.iOS|x86.ActiveCfg = Release|x86
+		{7959A1B3-410A-4028-84B6-91D09EE6E79F}.iOS|x86.Build.0 = Release|x86
+		{7959A1B3-410A-4028-84B6-91D09EE6E79F}.Linux|Any CPU.ActiveCfg = Release|x86
+		{7959A1B3-410A-4028-84B6-91D09EE6E79F}.Linux|x86.ActiveCfg = Release|x86
+		{7959A1B3-410A-4028-84B6-91D09EE6E79F}.Linux|x86.Build.0 = Release|x86
+		{7959A1B3-410A-4028-84B6-91D09EE6E79F}.Mac|Any CPU.ActiveCfg = Release|x86
+		{7959A1B3-410A-4028-84B6-91D09EE6E79F}.Mac|x86.ActiveCfg = Release|x86
+		{7959A1B3-410A-4028-84B6-91D09EE6E79F}.Mac|x86.Build.0 = Release|x86
+		{7959A1B3-410A-4028-84B6-91D09EE6E79F}.Release|Any CPU.ActiveCfg = Release|x86
+		{7959A1B3-410A-4028-84B6-91D09EE6E79F}.Release|x86.ActiveCfg = Release|x86
+		{7959A1B3-410A-4028-84B6-91D09EE6E79F}.Release|x86.Build.0 = Release|x86
+		{7959A1B3-410A-4028-84B6-91D09EE6E79F}.Windows|Any CPU.ActiveCfg = Release|x86
+		{7959A1B3-410A-4028-84B6-91D09EE6E79F}.Windows|x86.ActiveCfg = Release|x86
+		{7959A1B3-410A-4028-84B6-91D09EE6E79F}.Windows|x86.Build.0 = Release|x86
+		{7959A1B3-410A-4028-84B6-91D09EE6E79F}.Windows8|Any CPU.ActiveCfg = Release|x86
+		{7959A1B3-410A-4028-84B6-91D09EE6E79F}.Windows8|x86.ActiveCfg = Release|x86
+		{7959A1B3-410A-4028-84B6-91D09EE6E79F}.Windows8|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
